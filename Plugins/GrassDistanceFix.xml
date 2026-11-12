@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PluginData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
+    <Id>47499E78-8BA8-473C-A0AA-FDC065A3B0C1</Id>
+    <RepoId>Voxar/GrassDistanceFix</RepoId>
+    <FriendlyName>Grass Distance Fix</FriendlyName>
+    <Author>Voxar</Author>
+    <Tooltip>Stops vanilla grass from growing larger with camera distance.</Tooltip>
+    <Description>Removes the two distance-based grass size boosts while keeping distance thinning and the fade at the grass draw limit. This applies to the vanilla foliage renderer. Foliage Rewrite uses its own shader when enabled.</Description>
+    <Commit>05580a8727712dc264c5048a2c5fd351385e460e</Commit>
+</PluginData>
