@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <PluginData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="GitHubPlugin">
     <Id>47499E78-8BA8-473C-A0AA-FDC065A3B0C1</Id>
-    <RepoId>claudeberg/GrassDistanceFix</RepoId>
+    <RepoId>Voxar-org/GrassDistanceFix</RepoId>
     <FriendlyName>Grass Distance Fix</FriendlyName>
     <Author>Voxar</Author>
     <Tooltip>Keeps vanilla grass blades the same physical size at any distance.</Tooltip>
