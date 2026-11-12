@@ -5,6 +5,6 @@
     <FriendlyName>Grass Distance Fix</FriendlyName>
     <Author>Voxar</Author>
     <Tooltip>Keeps vanilla grass blades the same physical size at any distance.</Tooltip>
-    <Description>Removes distance-based grass scaling while keeping the vanilla draw cutoff and LOD blade selection. Blades disappear at those boundaries without shrinking first. This applies to the vanilla foliage renderer. Foliage Rewrite uses its own shader when enabled.</Description>
-    <Commit>d970e5655532c17049bc0d24b6c63423ba0dc107</Commit>
+    <Description>Removes distance-based grass scaling while keeping the vanilla draw cutoff, LOD blade selection, and fade intervals. Grass fades through dithered pixel coverage at full blade size. This applies to the vanilla foliage renderer. Foliage Rewrite uses its own shader when enabled.</Description>
+    <Commit>1fe03615956603529d6f56907b193932e3f97c76</Commit>
 </PluginData>
